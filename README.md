@@ -2,6 +2,9 @@
 
 Um port scanner simples em **PowerShell** que testa as portas mais comuns de um host informado, exibindo o status de cada uma em cores diferentes para facilitar a visualização.  
 
+> ⚠️ **Aviso Legal:** Este programa deve ser usado apenas em redes **que você possui ou tem permissão explícita para testar**. Escanear portas de terceiros sem autorização é considerado atividade ilegal.
+
+
 ---
 
 ## ⚙️ Funcionalidades
